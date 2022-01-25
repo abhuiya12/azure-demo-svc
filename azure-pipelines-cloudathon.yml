@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'fe503540-99a2-40f9-9950-753e6b18a926'
 
   # Web app name
-  webAppName: 'aazure-demo-svc-nao'
+  webAppName: 'azure-demo-svc-nao'
 
   # Environment name
-  environmentName: 'aazure-demo-svc-nao'
+  environmentName: 'azure-demo-svc-nao'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
